@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: yellow;
+    overflow: hidden;
+}
+
+.tabela{
+    width: 503px;
+    height: 201px;
+}
+
+table, th, td {
+    border: 2px solid white;
+    width: 1005px;
+    height: 51px;
+    color: white;
+}
+
+td {
+    align-items: center;
+}
